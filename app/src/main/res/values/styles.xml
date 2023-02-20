@@ -1,0 +1,45 @@
+<resources>
+
+
+    <!--数字进度条样式：用于版本更新  -->
+    <style name="NumberProgressBar_Default">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+
+        <item name="progress_max">100</item>
+        <item name="progress_current">0</item>
+
+        <item name="progress_unreached_color">#800F35AF</item>
+        <item name="progress_reached_color">#0B3DE0</item>
+
+        <item name="progress_text_size">10sp</item>
+        <item name="progress_text_color">#fff</item>
+        <item name="progress_reached_bar_height">10dp</item>
+        <item name="progress_unreached_bar_height">9dp</item>
+        <item name="progress_dot_radius">5.5dp</item>
+        <item name="progress_dot_color">#F44336</item>
+        <item name="progress_text_bg_color">#F44336</item>
+    </style>
+
+    <!--数字进度条样式：用于版本更新  -->
+    <style name="NumberProgressBar2">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+
+        <item name="progress_max">100</item>
+        <item name="progress_current">0</item>
+
+        <item name="progress_unreached_color">#817E7F</item>
+        <item name="progress_reached_color">#E00B2B</item>
+
+        <item name="progress_text_size">10sp</item>
+        <item name="progress_text_color">#fff</item>
+        <item name="progress_reached_bar_height">10dp</item>
+        <item name="progress_unreached_bar_height">9dp</item>
+        <item name="progress_dot_radius">5.5dp</item>
+        <item name="progress_dot_color">#0F35AF</item>
+        <item name="progress_text_bg_color">#0F35AF</item>
+    </style>
+
+
+</resources>

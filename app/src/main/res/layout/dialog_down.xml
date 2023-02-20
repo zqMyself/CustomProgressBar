@@ -1,0 +1,12 @@
+<com.zltech.customprogressbar.NumberProgressBar xmlns:custom="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/pb_update_progress"
+    style="@style/NumberProgressBar_Default"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingTop="40dp"
+    android:paddingBottom="30dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    custom:progress_current="10">
+</com.zltech.customprogressbar.NumberProgressBar>
